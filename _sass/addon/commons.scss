@@ -211,7 +211,7 @@ i {
     margin: 0 0.35rem 0.5rem 0;
 
     &:hover {
-      transition: all 0.3s ease-in;
+      transition: all 0.2s ease-in;
     }
   }
 }
@@ -738,9 +738,12 @@ $btn-mb: 0.5rem;
 
     a {
       @extend %clickable-transition;
-      @extend %sidebar-link-hover;
 
       color: var(--site-title-color);
+
+      &:hover {
+        color: hsl(0, 0%, 90%);
+      }
     }
   }
 
@@ -873,11 +876,11 @@ $btn-mb: 0.5rem;
   }
 
   .nav-link {
-    transition: background-color 0.3s ease-in-out;
+    transition: background-color 0.2s ease-in-out;
   }
 
   .post-preview {
-    transition: background-color 0.35s ease-in-out;
+    transition: background-color 0.25s ease-in-out;
   }
 }
 

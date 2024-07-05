@@ -16,7 +16,7 @@ timezone: Asia/Calcutta
 
 title: Aditya Kulshrestha # the main title
 
-tagline: My technical blog # it will display as the sub-title
+tagline: My technical blog. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Welcome to my technical blog.
