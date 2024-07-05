@@ -729,7 +729,7 @@ $btn-mb: 0.5rem;
 
   .site-title {
     font-family: inherit;
-    font-weight: 900;
+    font-weight: 700;
     font-size: 1.75rem;
     line-height: 1.2;
     letter-spacing: 0.25px;
@@ -1076,7 +1076,7 @@ search {
   display: none;
   font-size: 1.1rem;
   font-weight: 600;
-  font-family: sans-serif;
+  font-family: $font-family-base;
   color: var(--topbar-text-color);
   text-align: center;
   width: 70%;
@@ -1181,7 +1181,7 @@ search {
   }
 
   .toast-body {
-    font-family: Lato, sans-serif;
+    font-family: $font-family-base;
     line-height: 1.25rem;
 
     button {
