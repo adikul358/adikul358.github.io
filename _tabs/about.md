@@ -1,83 +1,12 @@
 ---
-# the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
 ---
 
-Hello, I am Aditya Kulshrestha.
 
-Hello, I am Aditya Kulshrestha.
+I am Aditya Kulshrestha, a computer science student at SRM Institute of Science and Technology, Chennai. I am passionate about engineering software and solving scalable problems. My primary fields of interest are backend development and distributed computing. I like to play the drums and listen to EDM.
 
-Hello, I am Aditya Kulshrestha.
+Feel free to contact me via email or LinkedIn.
 
-Hello, I am Aditya Kulshrestha.
+> Strive for perfection, settle for excellence
 
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
-
-Hello, I am Aditya Kulshrestha.
+![Servers - Silicon Valley](/assets/img/servers.png)
