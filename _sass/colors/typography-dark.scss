@@ -4,7 +4,8 @@
 
 @mixin dark-scheme {
   /* Framework color */
-  --main-bg: hsl(0, 0%, 5%);
+  // --main-bg: #030811;
+  --main-bg: hsl(220, 68%, 5%);
   --mask-bg: rgb(0, 0, 0);
   --main-border-color: hsl(0, 0%, 18%);
 
@@ -16,7 +17,7 @@
   --label-color: #a7a7a7;
   --blockquote-border-color: rgb(66, 66, 66);
   --blockquote-text-color: #868686;
-  --link-color: #56a3ea;
+  --link-color: hsl(211, 80%, 40%);
   --link-underline-color: #56a3ea;
   --button-bg: #1e1e1e;
   --btn-border-color: #2e2f31;
@@ -37,12 +38,13 @@
   /* Sidebar */
   --site-title-color: hsl(0, 0%, 44%);
   --site-subtitle-color: #868686;
-  --sidebar-bg: hsl(0, 0%, 0%);
-  --sidebar-border-color: #292929;
+  // --sidebar-bg: #050c1a;
+  --sidebar-bg: #030811;
+  --sidebar-border-color: hsl(219, 30%, 15%);
   --sidebar-muted-color: #868686;
   --sidebar-active-color: rgb(255, 255, 255, 0.95);
-  --sidebar-hover-bg: #262626;
-  --sidebar-btn-bg: #232328;
+  --sidebar-hover-bg: #091733;
+  --sidebar-btn-bg: #091733;
   --sidebar-btn-color: #787878;
   --avatar-border-color: rgb(206, 206, 206, 0.9);
 
@@ -67,8 +69,8 @@
   --footnote-target-bg: rgb(63, 81, 181);
   --btn-share-color: #6c757d;
   --btn-share-hover-color: #bfc1ca;
-  --card-bg: hsl(0, 0%, 12%);
-  --card-hovor-bg: #464d51;
+  --card-bg: #071125;
+  --card-hovor-bg: #040a16;
   --card-shadow: rgb(21, 21, 21, 0.72) 0 6px 18px 0,
     rgb(137, 135, 135, 0.24) 0 0 0 1px;
   --kbd-wrap-color: #6a6a6a;
