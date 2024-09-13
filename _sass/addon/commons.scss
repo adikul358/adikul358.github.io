@@ -1434,9 +1434,9 @@ search {
 /* --- desktop mode, both sidebar and panel are visible --- */
 
 @media all and (min-width: 1200px) {
-  search {
-    margin-right: 4rem;
-  }
+  // search {
+  //   margin-right: 4rem;
+  // }
 
   #search-input {
     transition: all 0.3s ease-in-out;
@@ -1481,11 +1481,11 @@ search {
     left: $sidebar-width-large;
   }
 
-  search {
-    margin-right: calc(
-      $main-content-max-width / 4 - $search-max-width - 0.75rem
-    );
-  }
+  // search {
+  //   margin-right: calc(
+  //     $main-content-max-width / 4 - $search-max-width - 0.75rem
+  //   );
+  // }
 
   #main-wrapper > .container {
     max-width: $main-content-max-width;
